@@ -84,20 +84,20 @@ pip install numpy open3d pandas matplotlib
 
 ## Outputs
 
-- **Load the point cloud**
+- **Load the point cloud:**
 ![Output Image](Outputs/0_loaded_pcl.png)
 
-- **Downsample the point cloud**
+- **Downsample the point cloud:**
 ![Output Image](Outputs/1_downsample_pcl.png)
 
-- **Segment the point clouds**
+- **Segment the point clouds:**
 ![Output Image](Outputs/2_segment_pcl.png)
 
-- **Clustering inliers to identify separate objects**
+- **Clustering inliers to identify separate objects:**
 ![Output Image](Outputs/3_clustering_pcl.png)
 
-- **Determine 3D bounding boxes for all clusters**
+- **Determine 3D bounding boxes for all clusters:**
 ![Output Image](Outputs/4_bbox_pcl.png)
 
-- **Video of the full processing pipeline**
+- **Video of the full processing pipeline:**
 ![Output Image](Outputs/5_visualization.gif)
