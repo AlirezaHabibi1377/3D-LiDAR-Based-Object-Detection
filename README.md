@@ -104,4 +104,3 @@ pip install numpy open3d pandas matplotlib
 <p align="center">
     <img src="Outputs/5_visualization.gif" alt="Output Image">
 </p>
-![Output Image](Outputs/5_visualization.gif)
