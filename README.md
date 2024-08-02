@@ -99,5 +99,5 @@ pip install numpy open3d pandas matplotlib
 - **Determine 3D bounding boxes for all clusters:**
 ![Output Image](Outputs/4_bbox_pcl.png)
 
-- **Video of the full processing pipeline:**
+## Video of the full processing:
 ![Output Image](Outputs/5_visualization.gif)
